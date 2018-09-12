@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 rootProject.name = 'amazingtravels'
+=======
+rootProject.name = 'Amazing Travels'
+>>>>>>> 26d0af9baa538177672871dd27cf8475bc721774
 
 include ':app'
