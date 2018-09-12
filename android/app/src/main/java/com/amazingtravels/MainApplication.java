@@ -1,4 +1,4 @@
-package com.rncourse;
+package com.amazingtravels;
 
 import android.app.Application;
 
