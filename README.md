@@ -1,0 +1,1 @@
+An App built with React Native that provides the possibility to share images and thoughts about places you visit or travel.
