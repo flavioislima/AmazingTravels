@@ -6,6 +6,11 @@
 # dependencies
 /node_modules
 
+build
+.gradle
+keystores
+
+
 # misc
 .env.local
 .env.development.local
