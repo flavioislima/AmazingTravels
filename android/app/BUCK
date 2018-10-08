@@ -45,20 +45,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-<<<<<<< HEAD
     package = "com.amazingtravels",
-=======
-    package = "com.amazing travels",
->>>>>>> 26d0af9baa538177672871dd27cf8475bc721774
 )
 
 android_resource(
     name = "res",
-<<<<<<< HEAD
     package = "com.amazingtravels",
-=======
-    package = "com.amazing travels",
->>>>>>> 26d0af9baa538177672871dd27cf8475bc721774
     res = "src/main/res",
 )
 
